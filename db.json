@@ -1,0 +1,22 @@
+{
+  "posts":[
+    {
+        "id": 1,
+        "fname": "Josh",
+        "lname": "kjfdjs"
+    },
+    {
+        "id": 2,
+        "fname": "djhds"
+        "lname": "sdjhkjah"
+    },
+    {
+        "id": 3,
+        "fname": "dsalfl",
+        "lname": "sdjkasj"
+    }
+    ],
+    "profile":{
+      "name": "Luc"
+    }
+}
